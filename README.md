@@ -1,7 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi, I'm **Avior Mostovski**, 
-On this repository, you'll find a collection of various resources and projects that showcase my skills and knowledge in the field.
+Hi, I'm **Avior**, 
 
 ### 🔍 **DFIR Challenges / Sherlock Walkthroughs**
 - Explore in-depth walkthroughs for DFIR (Digital Forensics and Incident Response) challenges, including techniques, tools, and solutions.
