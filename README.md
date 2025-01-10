@@ -1,16 +1,25 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**AviorMostovski/AviorMostovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Avior Mostovski**, 
+On this repository, you'll find a collection of various resources and projects that showcase my skills and knowledge in the field.
 
-Here are some ideas to get you started:
+### 🔍 **DFIR Challenges / Sherlock Walkthroughs**
+- Explore in-depth walkthroughs for DFIR (Digital Forensics and Incident Response) challenges, including techniques, tools, and solutions.
+- I also provide detailed **Sherlock walkthroughs**, focusing on problem-solving strategies and methodologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ **Bash and Python Automation Scripts**
+- I automate tasks and processes using **Bash** and **Python**, with a focus on security, log analysis, and incident response.
+- Scripts that enhance efficiency and provide practical solutions for common cybersecurity tasks.
+
+### 🦠 **Malware Analysis**
+- Dive into the world of **malware analysis**
+- Learn from my analysis of real-world malware samples and gain insights into effective detection methods.
+
+## My Goals
+
+- Share knowledge and improve the cybersecurity community.
+- Continuously learn and apply new techniques in the ever-evolving field of cybersecurity.
+
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/avior-mostovski/)
