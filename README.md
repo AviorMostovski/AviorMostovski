@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 
 
-Hi, I'm **Avior**,  <img src="https://github.com/user-attachments/assets/ba8a0ec6-a380-4c6f-a5fd-f6243cbabd98" alt="Git Icon" width="70" height="40"/>
+Hi, I'm **Avior**,  <img src="https://github.com/user-attachments/assets/ba8a0ec6-a380-4c6f-a5fd-f6243cbabd98" alt="Git Icon" width="120" height="60"/>
 
 ### 🔍 **DFIR Challenges / Sherlock Walkthroughs**
 - Explore in-depth walkthroughs for DFIR (Digital Forensics and Incident Response) challenges, including techniques, tools, and solutions.
