@@ -30,7 +30,7 @@ Hi, I'm **Avior**,  ![214644145-264f4759-7633-441e-9d67-d8dda9d50d26](https://gi
 ## Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/avior-mostovski/">
-    <img src="https://github.com/user-attachments/assets/0aa5369d-b869-42dd-8cc0-1429427feedf" alt="LinkedIn" height="30" width="40" />
+    <img src="https://github.com/user-attachments/assets/0aa5369d-b869-42dd-8cc0-1429427feedf" alt="LinkedIn" height="80" width="80" />
   </a>
 </p>
 
