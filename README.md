@@ -2,7 +2,7 @@
 
 <br>
 
-Hi, I'm **Avior**, a passionate cybersecurity analyst from Israel <img src="https://github.com/user-attachments/assets/ba8a0ec6-a380-4c6f-a5fd-f6243cbabd98" alt="Git Icon" width="120" height="60"/>
+Hi, I'm **Avior**, a passionate cybersecurity analyst from Israel 
 ![212746035-d5c61762-973c-44c0-aec7-887f3b7690e3](https://github.com/user-attachments/assets/6e599287-1314-4f66-bbb1-e1a71e23b09f)
 ### 🔍 **DFIR Challenges / Sherlock Walkthroughs**
 - Explore in-depth walkthroughs for DFIR (Digital Forensics and Incident Response) challenges, including techniques, tools, and solutions.
