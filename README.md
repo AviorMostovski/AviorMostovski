@@ -6,7 +6,6 @@
   <img src="https://github.com/user-attachments/assets/6e599287-1314-4f66-bbb1-e1a71e23b09f" width="200" />
 </p>
 
-Hi, I'm **Avior**, a passionate cybersecurity analyst from Israel <br>
 
 
 ### 🔍 **DFIR Challenges / Sherlock Walkthroughs**
