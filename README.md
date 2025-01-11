@@ -2,6 +2,10 @@
 
 <br>
 
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/6e599287-1314-4f66-bbb1-e1a71e23b09f" width="200" />
+</p>
+
 Hi, I'm **Avior**, a passionate cybersecurity analyst from Israel <br>
 
 
@@ -13,10 +17,6 @@ Hi, I'm **Avior**, a passionate cybersecurity analyst from Israel <br>
 ### 🖥️ **Bash and Python Automation Scripts**
 - I automate tasks and processes using **Bash** and **Python**, with a focus on security, log analysis, and incident response.
 - Scripts that enhance efficiency and provide practical solutions for common cybersecurity tasks.
-
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/6e599287-1314-4f66-bbb1-e1a71e23b09f" width="200" />
-</p>
 
 ### 🦠 **Malware Analysis**
 - Dive into the world of **malware analysis**
