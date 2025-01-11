@@ -20,7 +20,7 @@ Hi, I'm **Avior**,  ![214644145-264f4759-7633-441e-9d67-d8dda9d50d26](https://gi
 - Continuously learn and apply new techniques in the ever-evolving field of cybersecurity.
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 ![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/0bf4592b-481a-411b-bcbc-a55a44c75027)
 ![212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2](https://github.com/user-attachments/assets/de024e9d-cc8b-4021-b736-3791f27ab468)
 ![212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b](https://github.com/user-attachments/assets/f3497815-eb57-48f1-97ce-625fde68dfc2)
