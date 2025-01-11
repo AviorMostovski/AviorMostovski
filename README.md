@@ -50,4 +50,6 @@ Hi, I'm **Avior**,  <img src="https://github.com/user-attachments/assets/ba8a0ec
 <br>
 <br>
 <br>
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/039f9425-9051-4930-bbef-4a0eaf61b945)
+
+
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/4ccc9a05-b3aa-4c7f-b55e-932429a8f2c2)
