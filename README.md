@@ -18,22 +18,24 @@ Hi, I'm **Avior**,  ![214644145-264f4759-7633-441e-9d67-d8dda9d50d26](https://gi
 
 - Share knowledge and improve the cybersecurity community.
 - Continuously learn and apply new techniques in the ever-evolving field of cybersecurity.
-
+<br>
+<br>
 
 <p align="left">
   <!-- Linux Icon -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> 
 
   <!-- Icon 1 -->
-  <img src="https://github.com/user-attachments/assets/0bf4592b-481a-411b-bcbc-a55a44c75027" alt="Icon 1" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/0bf4592b-481a-411b-bcbc-a55a44c75027" alt="Icon 1" width="80" height="80"/>
 
   <!-- Icon 2 -->
-  <img src="https://github.com/user-attachments/assets/de024e9d-cc8b-4021-b736-3791f27ab468" alt="Icon 2" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/de024e9d-cc8b-4021-b736-3791f27ab468" alt="Icon 2" width="80" height="80"/>
 
   <!-- Icon 3 -->
-  <img src="https://github.com/user-attachments/assets/f3497815-eb57-48f1-97ce-625fde68dfc2" alt="Icon 3" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/f3497815-eb57-48f1-97ce-625fde68dfc2" alt="Icon 3" width="80" height="80"/>
 </p>
-
+<br>
+<br>
 
 
 
