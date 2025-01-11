@@ -3,7 +3,10 @@
 <br>
 
 Hi, I'm **Avior**, a passionate cybersecurity analyst from Israel <br>
-![212746035-d5c61762-973c-44c0-aec7-887f3b7690e3](https://github.com/user-attachments/assets/6e599287-1314-4f66-bbb1-e1a71e23b09f)
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/6e599287-1314-4f66-bbb1-e1a71e23b09f" width="200" />
+</p>
+
 ### 🔍 **DFIR Challenges / Sherlock Walkthroughs**
 - Explore in-depth walkthroughs for DFIR (Digital Forensics and Incident Response) challenges, including techniques, tools, and solutions.
 - I also provide detailed **Sherlock walkthroughs**, focusing on problem-solving strategies and methodologies.
