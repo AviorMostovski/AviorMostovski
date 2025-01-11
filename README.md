@@ -1,13 +1,7 @@
-# Welcome to My GitHub Profile! 
-
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/039f9425-9051-4930-bbef-4a0eaf61b945)
-
-
-
-
+# Welcome to My GitHub Profile!
 
 <br>
-<br>
+
 Hi, I'm **Avior**,  <img src="https://github.com/user-attachments/assets/ba8a0ec6-a380-4c6f-a5fd-f6243cbabd98" alt="Git Icon" width="120" height="60"/>
 
 ### 🔍 **DFIR Challenges / Sherlock Walkthroughs**
@@ -53,4 +47,7 @@ Hi, I'm **Avior**,  <img src="https://github.com/user-attachments/assets/ba8a0ec
     <img src="https://github.com/user-attachments/assets/0aa5369d-b869-42dd-8cc0-1429427feedf" alt="LinkedIn" height="80" width="80" />
   </a>
 </p>
-
+<br>
+<br>
+<br>
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/039f9425-9051-4930-bbef-4a0eaf61b945)
