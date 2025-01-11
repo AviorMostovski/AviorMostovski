@@ -3,9 +3,7 @@
 <br>
 
 Hi, I'm **Avior**, a passionate cybersecurity analyst from Israel <br>
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/6e599287-1314-4f66-bbb1-e1a71e23b09f" width="200" />
-</p>
+
 
 ### 🔍 **DFIR Challenges / Sherlock Walkthroughs**
 - Explore in-depth walkthroughs for DFIR (Digital Forensics and Incident Response) challenges, including techniques, tools, and solutions.
@@ -15,6 +13,10 @@ Hi, I'm **Avior**, a passionate cybersecurity analyst from Israel <br>
 ### 🖥️ **Bash and Python Automation Scripts**
 - I automate tasks and processes using **Bash** and **Python**, with a focus on security, log analysis, and incident response.
 - Scripts that enhance efficiency and provide practical solutions for common cybersecurity tasks.
+
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/6e599287-1314-4f66-bbb1-e1a71e23b09f" width="200" />
+</p>
 
 ### 🦠 **Malware Analysis**
 - Dive into the world of **malware analysis**
