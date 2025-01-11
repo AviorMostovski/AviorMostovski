@@ -53,6 +53,7 @@
   </a>
 </p>
 <br>
+![Profile views](https://komarev.com/ghpvc/?username=AviorMostovski&color=brightgreen)
 <br>
 <br>
 
