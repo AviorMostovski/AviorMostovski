@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile! 
 
-Hi, I'm **Avior**, 
+Hi, I'm **Avior**,  ![214644145-264f4759-7633-441e-9d67-d8dda9d50d26](https://github.com/user-attachments/assets/ba8a0ec6-a380-4c6f-a5fd-f6243cbabd98)
 
 ### 🔍 **DFIR Challenges / Sherlock Walkthroughs**
 - Explore in-depth walkthroughs for DFIR (Digital Forensics and Incident Response) challenges, including techniques, tools, and solutions.
@@ -21,10 +21,14 @@ Hi, I'm **Avior**,
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/0bf4592b-481a-411b-bcbc-a55a44c75027)
+![212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2](https://github.com/user-attachments/assets/de024e9d-cc8b-4021-b736-3791f27ab468)
+![212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b](https://github.com/user-attachments/assets/f3497815-eb57-48f1-97ce-625fde68dfc2)
+
 
 
 ## Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/avior-mostovski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avior-mostovski" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avior-mostovski" target="blank">![235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483](https://github.com/user-attachments/assets/b3822f40-b94b-417e-aa55-a52d1db97f03)
+
 </p>
