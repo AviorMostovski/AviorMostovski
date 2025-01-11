@@ -53,9 +53,11 @@
   </a>
 </p>
 <br>
-![Profile views](https://komarev.com/ghpvc/?username=avior-mostovski&color=brightgreen)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aviormostovski&label=Profile%20views&color=0e75b6&style=flat" alt="aviormostovski" /> </p>
 
 <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aviormostovski&show_icons=true&locale=en" alt="aviormostovski" /></p>
 <br>
 
 
