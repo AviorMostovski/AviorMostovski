@@ -20,6 +20,7 @@ Hi, I'm **Avior**,
 - Continuously learn and apply new techniques in the ever-evolving field of cybersecurity.
 
 
+![image](https://github.com/user-attachments/assets/7cac145e-41fd-449c-adac-5dee14451890)
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
