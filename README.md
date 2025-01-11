@@ -28,7 +28,5 @@ Hi, I'm **Avior**,  ![214644145-264f4759-7633-441e-9d67-d8dda9d50d26](https://gi
 
 
 ## Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/avior-mostovski" target="blank">![235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483](https://github.com/user-attachments/assets/b3822f40-b94b-417e-aa55-a52d1db97f03)
+[![LinkedIn](https://github.com/user-attachments/assets/0aa5369d-b869-42dd-8cc0-1429427feedf)](https://www.linkedin.com/in/avior-mostovski/)
 
-</p>
