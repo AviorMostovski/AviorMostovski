@@ -42,9 +42,6 @@
   <img src="https://github.com/user-attachments/assets/f3497815-eb57-48f1-97ce-625fde68dfc2" alt="Icon 3" width="80" height="80"/>
 </p>
 <br>
-<br>
-
-
 
 ## Connect with Me
 <p align="left">
@@ -54,8 +51,6 @@
 </p>
 <br>
 
-
-<br>
 
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/4ccc9a05-b3aa-4c7f-b55e-932429a8f2c2)
