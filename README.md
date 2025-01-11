@@ -8,6 +8,8 @@
 
 <br>
 
+SEksIGltIEF2aW9yIE1vc3RvdnNraQ==
+
 ### 🔍 **DFIR Challenges / Sherlock Walkthroughs**
 - Explore in-depth walkthroughs for DFIR (Digital Forensics and Incident Response) challenges, including techniques, tools, and solutions.
 - I also provide detailed **Sherlock walkthroughs**, focusing on problem-solving strategies and methodologies.
