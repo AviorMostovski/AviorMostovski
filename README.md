@@ -1,11 +1,6 @@
 # Welcome to My GitHub Profile!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviormostovski&label=Profile%20views&color=0e75b6&style=flat" alt="aviormostovski" /> </p>
 
-<p align="left">
-Connect with Me<a href="https://www.linkedin.com/in/avior-mostovski/">
-    <img src="https://github.com/user-attachments/assets/0aa5369d-b869-42dd-8cc0-1429427feedf" alt="LinkedIn" height="80" width="80" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6e599287-1314-4f66-bbb1-e1a71e23b09f" width="250" />
