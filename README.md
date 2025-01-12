@@ -8,9 +8,7 @@
 
 <br>
 
-SGkgLCBpbSBBdmlvciBNb3N0b3Zza2k=   Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/avior-mostovski/">
+SGkgLCBpbSBBdmlvciBNb3N0b3Zza2k= </a>  Connect with Me<a href="https://www.linkedin.com/in/avior-mostovski/">
     <img src="https://github.com/user-attachments/assets/0aa5369d-b869-42dd-8cc0-1429427feedf" alt="LinkedIn" height="80" width="80" />
   </a>
 </p>
