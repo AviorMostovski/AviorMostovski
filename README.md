@@ -53,6 +53,12 @@ SGkgLCBpbSBBdmlvciBNb3N0b3Zza2k=
 </p>
 <br>
 
+## Scripts
+## My Projects
+
+- [Regex-Analyzer](https://github.com/AviorMostovski/Regex-Analyzer)
+- [PCAP-commands](https://github.com/AviorMostovski/PCAP-commands-script)
+- [Macro-Checker](https://github.com/AviorMostovski/Macro-Checker-Automation)
 
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/4ccc9a05-b3aa-4c7f-b55e-932429a8f2c2)
