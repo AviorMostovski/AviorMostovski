@@ -8,7 +8,12 @@
 
 <br>
 
-SGkgLCBpbSBBdmlvciBNb3N0b3Zza2k= 
+SGkgLCBpbSBBdmlvciBNb3N0b3Zza2k=   <p align="right">
+Connect with Me<a href="https://www.linkedin.com/in/avior-mostovski/">
+    <img src="https://github.com/user-attachments/assets/0aa5369d-b869-42dd-8cc0-1429427feedf" alt="LinkedIn" height="80" width="80" />
+  </a>
+</p>
+
 
 ### 🔍 **DFIR Challenges / Sherlock Walkthroughs**
 - Explore in-depth walkthroughs for DFIR (Digital Forensics and Incident Response) challenges, including techniques, tools, and solutions.
