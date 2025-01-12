@@ -50,11 +50,10 @@ SGkgLCBpbSBBdmlvciBNb3N0b3Zza2k=   <p align="center">
 
 ## My Scripts
 <p align="center">
-  - [Regex-Analyzer](https://github.com/AviorMostovski/Regex-Analyzer)<br>
-  - [PCAP-commands](https://github.com/AviorMostovski/PCAP-commands-script)<br>
-  - [Macro-Checker](https://github.com/AviorMostovski/Macro-Checker-Automation)
+  <a href="https://github.com/AviorMostovski/Regex-Analyzer">Regex-Analyzer</a><br>
+  <a href="https://github.com/AviorMostovski/PCAP-commands-script">PCAP-commands</a><br>
+  <a href="https://github.com/AviorMostovski/Macro-Checker-Automation">Macro-Checker</a>
 </p>
-
 
 
 
