@@ -50,14 +50,6 @@ SGkgLCBpbSBBdmlvciBNb3N0b3Zza2k=   <p align="center">
 </p>
 <br>
 
-## Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/avior-mostovski/">
-    <img src="https://github.com/user-attachments/assets/0aa5369d-b869-42dd-8cc0-1429427feedf" alt="LinkedIn" height="80" width="80" />
-  </a>
-</p>
-<br>
-
 ## My Scripts
 - [Regex-Analyzer](https://github.com/AviorMostovski/Regex-Analyzer)
 - [PCAP-commands](https://github.com/AviorMostovski/PCAP-commands-script)
