@@ -46,10 +46,7 @@ SGkgLCBpbSBBdmlvciBNb3N0b3Zza2k=   <p align="center">
   <img src="https://github.com/user-attachments/assets/f3497815-eb57-48f1-97ce-625fde68dfc2" alt="Icon 3" width="80" height="80"/>
 </p>
 
-<p align="center">
-  ## My Scripts
-</p>
-
+<h2 align="center">My Scripts</h2>
 <p align="center">
   <a href="https://github.com/AviorMostovski/Regex-Analyzer">Regex-Analyzer</a><br>
   <a href="https://github.com/AviorMostovski/PCAP-commands-script">PCAP-commands</a><br>
