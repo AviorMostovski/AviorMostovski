@@ -36,9 +36,10 @@ SGkgLCBpbSBBdmlvciBNb3N0b3Zza2k=   <p align="center">
 <br>
 
 ## My Scripts
-- [Regex-Analyzer](https://github.com/AviorMostovski/Regex-Analyzer)  ![Linux Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-- [PCAP-commands](https://github.com/AviorMostovski/PCAP-commands-script)  ![Icon 1](https://github.com/user-attachments/assets/0bf4592b-481a-411b-bcbc-a55a44c75027)
-- [Macro-Checker](https://github.com/AviorMostovski/Macro-Checker-Automation)  ![Icon 2](https://github.com/user-attachments/assets/de024e9d-cc8b-4021-b736-3791f27ab468) ![Icon 3](https://github.com/user-attachments/assets/f3497815-eb57-48f1-97ce-625fde68dfc2)
+- [Regex-Analyzer](https://github.com/AviorMostovski/Regex-Analyzer)  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" />
+- [PCAP-commands](https://github.com/AviorMostovski/PCAP-commands-script)  <img src="https://github.com/user-attachments/assets/0bf4592b-481a-411b-bcbc-a55a44c75027" width="30" height="30" />
+- [Macro-Checker](https://github.com/AviorMostovski/Macro-Checker-Automation)  <img src="https://github.com/user-attachments/assets/de024e9d-cc8b-4021-b736-3791f27ab468" width="30" height="30" /> <img src="https://github.com/user-attachments/assets/f3497815-eb57-48f1-97ce-625fde68dfc2" width="30" height="30" />
+
 
 
 ##
