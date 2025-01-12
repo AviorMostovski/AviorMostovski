@@ -29,12 +29,10 @@ SGkgLCBpbSBBdmlvciBNb3N0b3Zza2k=   <p align="center">
 - Learn from my analysis of real-world malware samples and gain insights into effective detection methods.
 
 ## My Goals
-
 - Share knowledge and improve the cybersecurity community.
 - Continuously learn and apply new techniques in the ever-evolving field of cybersecurity.
 <br>
-<br>
-<p align="right">
+<p align="center">
   <!-- Linux Icon -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> 
 
@@ -47,8 +45,6 @@ SGkgLCBpbSBBdmlvciBNb3N0b3Zza2k=   <p align="center">
   <!-- Icon 3 -->
   <img src="https://github.com/user-attachments/assets/f3497815-eb57-48f1-97ce-625fde68dfc2" alt="Icon 3" width="80" height="80"/>
 </p>
-<br>
-
 
 ## My Scripts
 - [Regex-Analyzer](https://github.com/AviorMostovski/Regex-Analyzer)
