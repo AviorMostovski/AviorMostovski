@@ -36,25 +36,9 @@ SGkgLCBpbSBBdmlvciBNb3N0b3Zza2k=   <p align="center">
 <br>
 
 ## My Scripts
-- [Regex-Analyzer](https://github.com/AviorMostovski/Regex-Analyzer)
-- [PCAP-commands](https://github.com/AviorMostovski/PCAP-commands-script)
-- [Macro-Checker](https://github.com/AviorMostovski/Macro-Checker-Automation)
-- 
-<p align="right">
-  <!-- Linux Icon -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> 
-
-  <!-- Icon 1 -->
-  <img src="https://github.com/user-attachments/assets/0bf4592b-481a-411b-bcbc-a55a44c75027" alt="Icon 1" width="80" height="80"/>
-
-  <!-- Icon 2 -->
-  <img src="https://github.com/user-attachments/assets/de024e9d-cc8b-4021-b736-3791f27ab468" alt="Icon 2" width="80" height="80"/>
-
-  <!-- Icon 3 -->
-  <img src="https://github.com/user-attachments/assets/f3497815-eb57-48f1-97ce-625fde68dfc2" alt="Icon 3" width="80" height="80"/>
-</p>
-<br>
-
+- [Regex-Analyzer](https://github.com/AviorMostovski/Regex-Analyzer)  ![Linux Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+- [PCAP-commands](https://github.com/AviorMostovski/PCAP-commands-script)  ![Icon 1](https://github.com/user-attachments/assets/0bf4592b-481a-411b-bcbc-a55a44c75027)
+- [Macro-Checker](https://github.com/AviorMostovski/Macro-Checker-Automation)  ![Icon 2](https://github.com/user-attachments/assets/de024e9d-cc8b-4021-b736-3791f27ab468) ![Icon 3](https://github.com/user-attachments/assets/f3497815-eb57-48f1-97ce-625fde68dfc2)
 
 
 ##
